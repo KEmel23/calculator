@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="grey_button" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="cornerRadius">40dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="backgroundTint">@color/gray</item>
+        <item name="android:layout_marginStart">14dp</item>
+    </style>
+
+    <style name="orange_button" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="cornerRadius">40dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="backgroundTint">@color/orandj</item>
+        <item name="android:layout_marginStart">14dp</item>
+    </style>
+    <style name="dark_grey_button" parent="Widget.MaterialComponents.Button">
+        <item name="android:layout_marginStart">14dp</item>
+        <item name="android:layout_width">80dp</item>
+        <item name="android:layout_height">80dp</item>
+        <item name="cornerRadius">40dp</item>
+        <item name="android:textSize">22sp</item>
+        <item name="backgroundTint">@color/dark_gray</item>
+    </style>
+
+
+
+
+</resources>
